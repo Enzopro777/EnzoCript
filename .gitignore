@@ -1,0 +1,30 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Artefactos de compilación
+build/
+dist/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de PyInstaller
+*.spec
+
+# Claves privadas (nunca al repo)
+*_private.pem
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Archivos temporales de EnzoCrypt
+*.enzocrypt.tmp
