@@ -33,7 +33,7 @@ To decrypt, the recipient uses their private key (password-protected) to recover
 ## Installation
 
 ```bash
-git clone https://github.com/Enzopro777/enzocrypt.git
+git clone https://github.com/Enzopro777/Enzocrypt.git
 cd enzocrypt
 pip install -r requirements.txt
 python app1.0.6.py
